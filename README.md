@@ -1,6 +1,6 @@
 # Mean Starter
 
-Simple MEAN stack starter based off a youtube tutorial created by one of the wizards at JetBrains. I plan to update with useful shit, feel free to fork and add stuff more cool shit.
+Simple MEAN stack starter based off a youtube tutorial created by one of the wizards at JetBrains. I plan to update with useful shit, feel free to fork and add more cool shit.
 
 This currently isn't really deployable, just simple and understandable.
 
